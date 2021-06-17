@@ -1,7 +1,7 @@
 package com.company.db.writer;
 
-import academy.belhard.db.DBConnector;
-import academy.belhard.entity.Airplane;
+import com.company.db.DBConnector;
+import com.company.entity.Airplane;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
