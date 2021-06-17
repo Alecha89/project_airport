@@ -1,11 +1,11 @@
 package com.company.util;
 
-import academy.belhard.entity.Flight;
+import com.company.entity.Flight;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-import static academy.belhard.io.IOConstants.DELIMITER;
+import static com.company.io.IOConstants.DELIMITER;
 
 public class FlightUtil {
     public static Flight toObject(String line) {
