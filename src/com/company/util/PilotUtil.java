@@ -1,9 +1,9 @@
 package com.company.util;
 
-import academy.belhard.entity.Pilot;
-import academy.belhard.entity.Rang;
+import com.company.entity.Pilot;
+import com.company.entity.Rang;
 
-import static academy.belhard.io.IOConstants.DELIMITER;
+import static com.company.io.IOConstants.DELIMITER;
 
 public class PilotUtil {
     public static Pilot toObject(String line) {
