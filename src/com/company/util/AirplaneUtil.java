@@ -1,8 +1,8 @@
 package com.company.util;
 
-import academy.belhard.entity.Airplane;
+import com.company.entity.Airplane;
 
-import static academy.belhard.io.IOConstants.DELIMITER;
+import static com.company.io.IOConstants.DELIMITER;
 
 public class AirplaneUtil {
     public static Airplane toObject(String line) {
