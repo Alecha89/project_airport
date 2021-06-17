@@ -1,7 +1,7 @@
 package com.company.io;
 
-import academy.belhard.entity.JoinDataItem;
-import academy.belhard.util.JoinDataItemUtil;
+import com.company.entity.JoinDataItem;
+import com.company.util.JoinDataItemUtil;
 
 import java.io.FileWriter;
 import java.io.IOException;
