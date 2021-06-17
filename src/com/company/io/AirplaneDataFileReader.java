@@ -1,8 +1,8 @@
 package com.company.io;
 
-import academy.belhard.entity.Airplane;
-import academy.belhard.exception.EmptySourceFile;
-import academy.belhard.util.AirplaneUtil;
+import com.company.entity.Airplane;
+import com.company.exception.EmptySourceFile;
+import com.company.util.AirplaneUtil;
 
 import java.io.BufferedReader;
 import java.io.File;
