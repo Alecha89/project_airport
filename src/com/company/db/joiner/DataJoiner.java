@@ -1,8 +1,8 @@
 package com.company.db.joiner;
 
-import academy.belhard.db.DBConnector;
-import academy.belhard.entity.JoinDataItem;
-import academy.belhard.util.JoinDataItemUtil;
+import com.company.db.DBConnector;
+import com.company.entity.JoinDataItem;
+import com.company.util.JoinDataItemUtil;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
