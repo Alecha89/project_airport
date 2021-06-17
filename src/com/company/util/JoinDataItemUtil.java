@@ -1,6 +1,6 @@
 package com.company.util;
 
-import academy.belhard.entity.JoinDataItem;
+import com.company.entity.JoinDataItem;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
